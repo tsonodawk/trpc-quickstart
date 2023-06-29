@@ -1,0 +1,12 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "@types/node": "^20.3.2"
+  },
+  "dependencies": {
+    "@trpc/client": "^10.33.0",
+    "undici": "^5.22.1"
+  }
+}
